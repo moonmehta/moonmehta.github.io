@@ -1,2 +1,3 @@
-# moonmehta.github.io
-Redirect old space blog
+# blog.jatan.space
+
+Moved to **[jatan.space](https://jatan.space)**.
