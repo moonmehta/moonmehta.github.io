@@ -1,5 +1,5 @@
-# blog.jatan.space
+# notes.jatan.space
 
-## Moved to **[jatan.space](https://jatan.space)**
+## Moved to **[thoughts.jatan.space](https://thoughts.jatan.space)**
 
-<meta http-equiv="refresh" content="0; URL='https://jatan.space'" />
+<meta http-equiv="refresh" content="0; URL='https://thoughts.jatan.space'" />
